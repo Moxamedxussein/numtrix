@@ -1,0 +1,17 @@
+Login screen 
+settings button
+
+Game over screen
+save settings menu tkinter
+
+# Show score and user besides playing field
+# Sound effects (Edited)
+# Background
+# settings file json
+# Keep track of high score
+# User management (In settings file) 
+# Implement blinking to main file
+# Game over code and mechanic
+# changable difficulty 
+# scalable board and drawing
+# Scoring
